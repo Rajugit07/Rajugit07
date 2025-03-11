@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/JXA0.gif"  />
+  <img height="150" src="[https://i.gifer.com/JXA0.gif](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1741688249~exp=1741691849~hmac=d8bce0aac65118eecf0a18221268e0a04c6e040d4c73ea71ddf0ca29abe74a8f&w=1380)"  />
 </div>
 
 ###
